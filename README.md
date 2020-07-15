@@ -12,3 +12,5 @@ Here is a summary of my skills, projects and studies:
   - 📘 Python for Data Analytics
     
 - 💬 Ask me about math and science
+
+Know my [LinkedIn](https://www.linkedin.com/in/aureliowozhiak/)
