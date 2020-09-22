@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Marcos Aurelio Wozhiak Junior and I'm a System Analyst and Developer trained by Universidade Positivo at Curitiba, Paraná - Brasil!
+My name is Marcos Aurelio Wozhiak Junior, I'm a Brazilian Guy and I'm a System Analyst and Developer trained by 'Universidade Positivo'! And now I am doing a postgraduate degree in Data Analysis at 'Descomplica'.
 
 Here is a summary of my skills, projects and studies:
 
-- 💻 I’m currently working as an Customer Operation Analyst
+- 💻 I’m currently working as an Improvement Analyst | Business Rules & System Analyst at EBANX
 
 - 📚 I’m learning:
-  - 📗 ASP.NET 3.1 for back-end development
-  - 📕 Data visualization with Tableau
+  - 📗 Math for Machine Learning
+  - 📕 Data visualization
   - 📘 Python for Data Analytics
     
 - 💬 Ask me about math and science
