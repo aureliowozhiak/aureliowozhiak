@@ -9,7 +9,7 @@ Here is a summary of my skills, projects and studies:
 - 📚 I’m learning:
   - 📗 Math for Machine Learning
   - 📕 Data visualization
-  - 📘 Python for Data Analytics
+  - 📘 Python for Data Science
     
 - 💬 Ask me about math and science
 
