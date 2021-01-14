@@ -10,7 +10,7 @@ Here is a summary of my skills, projects and studies:
   - 📗 Math for Machine Learning
   - 📕 Data visualization
   - 📘 Python for Data Science
-  - 💻 Engineering and Data Infrastructure
+  - ⚙️ Engineering and Data Infrastructure
     
 - 💬 Ask me about math, science, games and more 😄
 
