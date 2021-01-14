@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcos Aurelio Wozhiak Junior, I'm a Brazilian Guy and I'm a System Analyst and Developer trained by 'Universidade Positivo'! And now I am doing a postgraduate degree in Data Analysis at 'Descomplica'.
+My name is Marcos Aurelio Wozhiak Junior, I'm a Brazilian Guy and I'm a System Analyst and Developer! But now I am doing a postgraduate degree in Data Analysis.
 
 Here is a summary of my skills, projects and studies:
 
@@ -10,7 +10,8 @@ Here is a summary of my skills, projects and studies:
   - 📗 Math for Machine Learning
   - 📕 Data visualization
   - 📘 Python for Data Science
+  - 💻 Engineering and Data Infrastructure
     
-- 💬 Ask me about math and science
+- 💬 Ask me about math, science, games and more 😄
 
 Know my [LinkedIn](https://www.linkedin.com/in/aureliowozhiak/)
