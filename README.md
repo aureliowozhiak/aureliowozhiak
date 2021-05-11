@@ -5,8 +5,8 @@ I'm a Brazilian Guy that loves Data Science!
 
 
 My academic life is summarized in:
- > - 💻 Technologist in Systems Analysis and Development [@Universidade_Positivo](https://www.up.edu.br/)
- > - 📊 Postgraduate degree in Data Analysis [@Descomplica_Pós](https://descomplica.com.br/pos-graduacao/)
+ > - 💻 Technologist in **Systems Analysis and Development** [@Universidade_Positivo](https://www.up.edu.br/)
+ > - 📊 Postgraduate degree in **Data Analysis** [@Descomplica_Pós](https://descomplica.com.br/pos-graduacao/)
 
 Here is a summary of my skills, projects and studies:
 
