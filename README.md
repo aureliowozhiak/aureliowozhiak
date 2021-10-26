@@ -12,7 +12,7 @@ My academic life is summarized in:
 
 Here is a summary of my skills, projects and studies:
 
-- 💻 I’m currently working as an Improvement Analyst | Business Rules & System Analyst at EBANX
+- 💻 I’m currently working as an Data Analyst
     
 - 💬 Ask me about math, data science, games and more 😄
 
