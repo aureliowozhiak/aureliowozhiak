@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/aureliowozhiak/aureliowozhiak/master/hacker-hack.gif)
 ### Hi there 👋
 
 My name is Marcos Aurelio Wozhiak Junior!
