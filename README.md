@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/aureliowozhiak/aureliowozhiak/master/hacker-hack.gif)
 ### Hi there 👋
 
 My name is Marcos Aurelio Wozhiak Junior!
@@ -12,7 +11,7 @@ My academic life is summarized in:
 
 Here is a summary of my skills, projects and studies:
 
-- 💻 I’m currently working as an Data Analyst
+- 💻 I’m currently working as an Data Engineer
     
 - 💬 Ask me about math, data science, games and more 😄
 
