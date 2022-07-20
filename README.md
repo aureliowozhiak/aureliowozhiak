@@ -3,8 +3,6 @@
 My name is Marcos Aurelio Wozhiak Junior!
 I'm a Brazilian Guy that loves Data Science!
 
-<img src="https://media0.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=790b761191076c50154dd5a4ea6c7db8c9b061a363913fa1&rid=giphy.gif&ct=g" />
-
 My academic life is summarized in:
  > - 💻 Technologist in *Systems Analysis and Development* [@Universidade_Positivo](https://www.up.edu.br/)
  > - 📊 Postgraduate degree in *Data Analysis* [@Descomplica_Pós](https://descomplica.com.br/pos-graduacao/)
