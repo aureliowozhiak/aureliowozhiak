@@ -14,7 +14,7 @@ Here is a summary of my skills, projects and studies:
 
 My OpenSource project:
 
-🌐 [Data Tools](http://datatools.jvmsolutions.tech/) - [GitHub Repo](https://github.com/aureliowozhiak/data_collection_tools)
+🌐 [Data Tools](http://data.jvmsolutions.tech/) - [GitHub Repo](https://github.com/aureliowozhiak/data_collection_tools)
 
 
 Know my [LinkedIn](https://www.linkedin.com/in/aureliowozhiak/)
