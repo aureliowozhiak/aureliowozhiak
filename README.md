@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Marcos Aurelio Wozhiak Junior!
-I'm a Brazilian Guy that loves Data Science!
+My name is Marcos Aurelio Wozhiak Junior de Oliveira!
+I'm a Brazilian Guy that loves Tech, Science, Data and Security!
 
 My academic life is summarized in:
  > - 💻 Technologist in *Systems Analysis and Development* [@Universidade_Positivo](https://www.up.edu.br/)
@@ -12,9 +12,7 @@ Here is a summary of my skills, projects and studies:
 - 💻 I’m currently working as an Data Engineer
 - 💬 Ask me about math, data science, games and more 😄
 
-My OpenSource project:
 
-🌐 [Data Tools](http://data.jvmsolutions.tech/) - [GitHub Repo](https://github.com/aureliowozhiak/data_collection_tools)
 
 
 Know my [LinkedIn](https://www.linkedin.com/in/aureliowozhiak/)
