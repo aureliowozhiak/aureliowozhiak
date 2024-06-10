@@ -1,4 +1,6 @@
-$$\mmlToken{ms}[fontfamily="
+
+```math
+\mmlToken{ms}[fontfamily="
 notstolen_owo_;
 color: transparent;
 pointer-events:none;
@@ -60,7 +62,9 @@ pointer-events: none;
 position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(8px) brightness(3.7) opacity(0.2);
-"]{}$$
+"]{}
+```
+
 ### Hi there 👋
 
 My name is Marcos Aurelio Wozhiak Junior de Oliveira!
